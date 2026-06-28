@@ -1,0 +1,9 @@
+{
+  "key.autokeystrokes.toggle_fastplace": "Toggle FastPlace",
+  "key.autokeystrokes.toggle_fastjump": "Toggle FastJump",
+  "key.autokeystrokes.config": "Open/Close HUD",
+  "category.autokeystrokes": "AutoKeystrokes",
+  "key.categories.autokeystrokes": "AutoKeystrokes",
+  "key.categories.autokeystrokes.keys": "AutoKeystrokes",
+  "key.category.autokeystrokes.keys": "AutoKeystrokes"
+}
