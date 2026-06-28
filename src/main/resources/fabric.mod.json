@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "autokeystrokes",
+	"version": "${version}",
+	"name": "AutoKeystrokes",
+	"description": "A fully customizable lunar keystrokes overlay with built-in visual display of FastPlace and NoJumpDelay.",
+	"authors": [
+		"Botato"
+	],
+	"contact": {
+		"sources": "https://github.com/RobBotato/AutoKeystrokes"
+	},
+	"license": "MIT",
+	"icon": "assets/autokeystrokes/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.botato.autokeystrokes.AutoKeystrokes"
+		],
+		"client": [
+			"com.botato.autokeystrokes.client.AutoKeystrokesClient"
+		]
+	},
+	"mixins": [
+		"autokeystrokes.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.0",
+		"minecraft": ">=1.21.6 <=1.21.8",
+		"java": ">=21"
+	}
+}
