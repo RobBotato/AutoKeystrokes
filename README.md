@@ -10,7 +10,7 @@ HUD Settings - `P`, FastJump - `B`, FastPlace - `Q`
 
 ## Previews
 
-[Insert screenshots or GIFs here]
+![AutoKeystrokes Showcase](https://cdn.modrinth.com/data/LBNHMrt6/images/6eb5780b3561d8f85956734c301793470f688852.gif)
 
 ---
 
